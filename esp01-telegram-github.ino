@@ -101,7 +101,7 @@ void handleNewMessages(int numNewMessages) {
       }
     }
   }
-}
+
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(relayPin, OUTPUT);
